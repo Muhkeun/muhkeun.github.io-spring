@@ -8,3 +8,8 @@
 
 ### 3일차 Spring DI(생성자 설정을 이용한 의존성 주입)  (11월 19일)
 * [Spring DI(생성자 설정을 이용한 의존성 주입)](https://github.com/Muhkeun/muhkeun.github.io-spring/tree/main/Di1119). 
+
+### 3일차 Spring DI(어노테이션을 이용한 의존성 주입)  (11월 24일)
+* [Spring DI(어노테이션을 이용한 의존성 주입)](https://github.com/Muhkeun/muhkeun.github.io-spring/tree/main/Di1124/java/DiEx07).
+* [Spring DI(xml에서 자바 어노테이션 불러오기)](https://github.com/Muhkeun/muhkeun.github.io-spring/tree/main/Di1124/java/DiEx08).
+* [Spring DI(자바 어노테이션에서 xml 불러오기)](https://github.com/Muhkeun/muhkeun.github.io-spring/tree/main/Di1124/java/DiEx09). 
