@@ -14,7 +14,7 @@
 * [Spring DI(xml에서 자바 어노테이션 불러오기)](https://github.com/Muhkeun/muhkeun.github.io-spring/tree/main/Di1124/java/DiEx08).
 * [Spring DI(자바 어노테이션에서 xml 불러오기)](https://github.com/Muhkeun/muhkeun.github.io-spring/tree/main/Di1124/java/DiEx09). 
 
-### 4일차 Bean(빈) (11월 25일)
+### 4일차 Bean(빈 초기화, 소멸) (11월 25일)
 * [Bean_Life cycle(bean의 생명주기)](https://github.com/Muhkeun/muhkeun.github.io-spring/tree/main/Bean1125/java/BeanEx01).
 * [Bean_Scope(bean의 범위)](https://github.com/Muhkeun/muhkeun.github.io-spring/tree/main/Bean1125/java/BeanEx02).
 * [Bean(사용자 초기화 메소드, 사용자 소멸 메소드)](https://github.com/Muhkeun/muhkeun.github.io-spring/tree/main/Bean1125/java/BeanEx03).
