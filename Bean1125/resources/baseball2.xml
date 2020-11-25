@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:cotext="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+                           http://www.springframework.org/schema/beans/spring-beans.xsd
+                           http://www.springframework.org/schema/context
+                           http://www.springframework.org/schema/context/spring-context-3.2.xsd">
+    <cotext:annotation-config/>
+    <!-- Player2 클래스의 Bean  -->
+    <bean id="member1" class="BeanEx01.Player2">
+        <constructor-arg value="홍길동"/>
+        <constructor-arg value="24"/>
+    </bean>
+    <bean id="member2" class="BeanEx01.Player2">
+        <constructor-arg value="임꺽정"/>
+        <constructor-arg value="27"/>
+    </bean>
+    <bean id="member3" class="BeanEx01.Player2">
+    <constructor-arg value="장길산"/>
+    <constructor-arg value="28"/>
+    </bean>
+</beans>

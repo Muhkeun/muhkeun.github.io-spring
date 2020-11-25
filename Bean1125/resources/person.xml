@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!-- <bean> scope 태그의 속성값
+         singleton(default) : 스프링 컨테이너에 의해 한 개의 bean 객체만을 생성
+         prototype: bean을 사용할 때마다 객체를 생성
+         request: HTTP 요청 마다 bean 객체를 생성 (WebApplicationContext에서 적용)
+         session: HTTP session 요청 마다 bean 객체를 생성 (WebApplicationContext에서 적용)
+         global-session: global HTTP session 요청 마다 bean 객체를 생성 (WebApplicationContext에서 적용)
+   -->
+    <bean id="person" class="BeanEx02.Person" scope="singleton">
+        <constructor-arg value="홍길동"/>
+        <constructor-arg value="24"/>
+    </bean>
+</beans>
