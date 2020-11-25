@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--    bean 객체 생성 시 커스텀 초기화 메서드와 커스텀 소멸 메서드를 지정
+        * init-method : 커스텀 초기화 메서드를 지정하는 <bean> 태그의 속성
+        * destroy-method: 커스텀 소멸 메서드를 지정하는 <bean> 태그의 속성
+-->
+    <bean id="beanLife" class="BeanEx03.BeanLifeImpl" init-method="init" destroy-method="end">
+
+    </bean>
+</beans>
