@@ -21,5 +21,5 @@
 
 ### 4일차 Bean2 (12월 07일)
 * [Environment를 이용한 빈 설정](https://github.com/Muhkeun/muhkeun.github.io-spring/tree/main/SpringEx1207/java/com/muhkeun/environmentEx01).
-* [xml에 외부 properties 파일 불러오기)](https://github.com/Muhkeun/muhkeun.github.io-spring/tree/main/SpringEx1207/java/com/muhkeun/environmentEx02).
+* [xml에 외부 properties 파일 불러오기](https://github.com/Muhkeun/muhkeun.github.io-spring/tree/main/SpringEx1207/java/com/muhkeun/environmentEx02).
 * [java코드에 외부 properties 파일 불러오기](https://github.com/Muhkeun/muhkeun.github.io-spring/tree/main/SpringEx1207/java/com/muhkeun/environmentEx03).
