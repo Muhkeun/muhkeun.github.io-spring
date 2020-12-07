@@ -18,3 +18,8 @@
 * [Bean_Life cycle(bean의 생명주기)](https://github.com/Muhkeun/muhkeun.github.io-spring/tree/main/Bean1125/java/BeanEx01).
 * [Bean_Scope(bean의 범위)](https://github.com/Muhkeun/muhkeun.github.io-spring/tree/main/Bean1125/java/BeanEx02).
 * [Bean(사용자 초기화 메소드, 사용자 소멸 메소드)](https://github.com/Muhkeun/muhkeun.github.io-spring/tree/main/Bean1125/java/BeanEx03).
+
+### 4일차 Bean2 (12월 07일)
+* [Environment를 이용한 빈 설정](https://github.com/Muhkeun/muhkeun.github.io-spring/tree/main/SpringEx1207/java/com/muhkeun/environmentEx01).
+* [xml에 외부 properties 파일 불러오기)](https://github.com/Muhkeun/muhkeun.github.io-spring/tree/main/SpringEx1207/java/com/muhkeun/environmentEx02).
+* [java코드에 외부 properties 파일 불러오기](https://github.com/Muhkeun/muhkeun.github.io-spring/tree/main/SpringEx1207/java/com/muhkeun/environmentEx03).
